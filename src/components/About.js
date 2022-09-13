@@ -4,7 +4,7 @@ const About = () => {
   return (
     <div className="about">
       <h1 className="about--title">About</h1>
-      <p className="about--paragraph">I am a frontend developer with a particular interest in making things simple and automating daily tasks. I try to keep up with security and best practices, and am always looking for new things to learn.</p>
+      <p className="about--paragraph">Im learning react right now so i kind of do a test page now, for applying the things I learned about components and react syntax in a real page.</p>
     </div>
   )
 }
