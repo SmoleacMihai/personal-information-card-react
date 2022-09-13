@@ -9,8 +9,16 @@ a {
 }
 
 body {
-  background: #1A1B21;
+  background: #23252C;
   font-family: "Inter", sans-serif;
+}
+
+.card {
+  width: 400px;
+  background: #1A1B21;
+  margin-left: 30%;
+  margin-top: 100px;
+  margin-bottom: 100px;
 }
 
 .info {
@@ -20,6 +28,7 @@ body {
 .info--personal-photo {
   width: stretch;
   height: 317px;
+  border-radius: 10px 10px 0 0;
 }
 
 .info--name {
@@ -112,11 +121,12 @@ body {
 footer {
   background: #161619;
   margin-top: 20px;
+  border-radius: 0 0 10px 10px;
 }
 
 .images-container {
   display: flex;
   margin: 0 30px;
-  padding: 10px 20px 10px 20px;
+  padding: 15px 20px 15px 20px;
   justify-content: space-around;
 }

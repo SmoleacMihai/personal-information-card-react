@@ -7,12 +7,12 @@ import Interests from "./components/Interests";
 
 const App = () => {
   return (
-    <>
+    <div className="card">
       <Info/>
       <About/>
       <Interests/>
       <Footer/>
-    </>
+    </div>
   )
 }
 
