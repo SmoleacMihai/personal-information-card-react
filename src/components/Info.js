@@ -12,12 +12,12 @@ const Info = () => {
         <a href="myportfolio-69833.web.app" className="info--website">myportfolio.com</a>
       </div>
       <div className="info--buttons">
-        <a className="info--button-email">
-          <img src={require("../assets/images/button_icons/mail.png")}/>
+        <a href='#' className="info--button-email">
+          <img src={require("../assets/images/button_icons/mail.png")} alt="logo"/>
           Email
         </a>
-        <a className="info--button-linkedin">
-          <img src={require("../assets/images/button_icons/linkedin.png")}/>
+        <a href='#'className="info--button-linkedin">
+          <img src={require("../assets/images/button_icons/linkedin.png")} alt="logo"/>
           LinkedIn
         </a>
       </div>

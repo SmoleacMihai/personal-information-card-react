@@ -90,3 +90,21 @@ body {
 .info--button-email > img, .info--button-linkedin > img {
   margin-right: 10px;
 }
+
+.about {
+  margin-top: 33px;
+  color: #F5F5F5;
+  margin-left: 30px;
+  margin-right: 20px;
+}
+
+.about--title {
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 150%;
+}
+
+.about--paragraph {
+  font-size: 10.24px;
+  line-height: 150%;
+}
